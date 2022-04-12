@@ -1,4 +1,10 @@
-{"versionCode": "2.0",
- "url": "https://www.mediafire.com/download/fdry0l6l1gtpd0y",
- "Message": "Your Update Message"
+{
+"newVersion": "3",
+"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
+"versionNotes":"
+• Pag wlang lumabas na update sa playstore please clear data playstore app din check update ulit
+• Optimize UI
+• Optimize Connection
+• Added Custom Server
+"
 }
