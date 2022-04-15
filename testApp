@@ -1,8 +1,9 @@
 {
 "newVersion": "1.1",
-"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
+"apkUrl": "https://download936.mediafire.com/sfl0b8ddsqpg/sc8nyptqex51xav/STAR+TUNNEL+PLUS+V2.apk",
 "versionNotes":"
-• Pag wlang lumabas na update sa playstore please clear data playstore app din check update ulit
+• Fixed Android 12 Crashes
+• Fixed Add Timer
 • Optimize UI
 • Optimize Connection
 • Added Custom Server
