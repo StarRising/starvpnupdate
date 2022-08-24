@@ -1,11 +1,11 @@
 {
-"newVersion": "1.7",
+"newVersion": "1.8",
 "apkUrl": "https://download941.mediafire.com/ohnxmf0lwbsg/3bd6mmcpo7298wl/STAR+TUNNEL+PLUS+v1.7.apk",
 "versionNotes":"
 • Fixed Android 12 Crashes
 • Fixed Add Timer
 • Optimize UI
 • Optimize Connection
-• Added Custom Server
+• Fixed Ssl Protocol
 "
 }
