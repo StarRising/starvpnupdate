@@ -1,6 +1,6 @@
 {
-"newVersion": "2.4",
-"apkUrl": "https://download1322.mediafire.com/iplrk89jy2vg/zlg9bt8omw6vlf1/STAR+TUNNEL+PLUS+V2.apk",
+"newVersion": "2.5",
+"apkUrl": "https://download1648.mediafire.com/bg25d8v74sgg/lu4dfkgoccac55a/Star+Tunnel+Plus-v2.apk",
 "versionNotes":"
 • Fixed Android 12 Crashes ✅
 • Fixed Add Timer ✅
@@ -9,5 +9,6 @@
 • Fix More Bug ✅
 • Optimize Connection ✅
 • Fixed SSL Protocol ✅
+• Fixed SSL Payload Protocol ✅
 "
 }
