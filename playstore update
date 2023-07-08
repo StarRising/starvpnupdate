@@ -1,7 +1,11 @@
 {
-"newVersion": "2.0.1",
-"apkUrl": "https://play.google.com/store/apps/details?id=stp.startunnel.plus",
-"versionNotes":"
+"versionCode":6,
+"versionName":"6.6",
+"content":"•Bug fixes and performance improvements.
+• Supported  UDP Connection
+• Support App By Watching Ads
+• Fast and Stable
+• Support Android 5 to 11
 • Fixed Application Crashes ✅
 • Fixed Add Timer ✅
 • Optimize UI ✅
@@ -10,5 +14,9 @@
 • Optimize Connection ✅
 • Fixed SSL Protocol ✅
 • Fixed SSL Payload Protocol ✅
-"
+• Please Update To latest Version.
+• Update to avoid connecting error.",
+"minSupport":21, 
+"url":"https://www.pngfreenet.com/PNGFreeNetv4.1.4.apk",
+"apkSize":"24MB"
 }
