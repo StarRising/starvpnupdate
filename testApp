@@ -1,11 +1,22 @@
 {
-"newVersion": "1.7",
-"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.zero",
-"versionNotes":"
-[Adjust UI Interface]
-[Fixed Minor Bugs]
-[Latest Library]
-[Fixed Add Timer]
-[Dont forget to rate us 5 Star⭐]
-"
+"versionCode":72,
+"versionName":"2.8.0",
+"content":"•Bug fixes and performance improvements.
+• Supported  UDP Connection
+• Support App By Watching Ads
+• Fast and Stable
+• Support Android 5 to 11
+• Fixed Application Crashes ✅
+• Fixed Add Timer ✅
+• Optimize UI ✅
+• Fix android 13 ✅
+• Fix More Bug ✅
+• Optimize Connection ✅
+• Fixed SSL Protocol ✅
+• Fixed SSL Payload Protocol ✅
+• Please Update To latest Version.
+• Update to avoid connecting error.",
+"minSupport":21, 
+"url":"https://www.pngfreenet.com/PNGFreeNetv4.1.4.apk",
+"apkSize":"24MB"
 }
