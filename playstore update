@@ -1,7 +1,7 @@
 {
-"versionCode":71,
-"versionName":"2.7.0",
-"content":"•Bug fixes and performance improvements.
+"versionCode":72,
+"versionName":"2.8.0",
+"contentText":"•Bug fixes and performance improvements.
 • Supported  UDP Connection
 • Support App By Watching Ads
 • Fast and Stable
@@ -15,8 +15,8 @@
 • Fixed SSL Protocol ✅
 • Fixed SSL Payload Protocol ✅
 • Please Update To latest Version.
-• Update to avoid connecting error.",
-"minSupport":21, 
+• Update to avoid connecting error",
+"minSupport":21,
 "url":"https://www.pngfreenet.com/PNGFreeNetv4.1.4.apk",
 "apkSize":"24MB"
-}
+    }
